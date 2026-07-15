@@ -1,0 +1,4 @@
+discord.py @ git+https://github.com/Rapptz/discord.py.git
+tzdata==2024.1
+motor==3.3.2
+pymongo==4.6.3
